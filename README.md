@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/c613fd79-3f7a-4713-9b1c-be7c85e67c30)
 
 # Introduction
-#### There are 4 containers named (Top, Right, Bottom, Left). You can add any `Actor` to the `Container`, such as `weapons`, `potions`, `skills`, It uses an `Event-Driven` architecture, so you don't need to extend any `parent class` or `interface`, you just need to add a `component` to `your Actor`
+#### There are 4 containers named (Top, Right, Bottom, Left). You can add any `Actor` to the `Container`, such as `weapons`, `potions`, `skills`, It uses an `Event-Driven` architecture, so you don't need to extend any `parent class` or `interface`, you just need to add a `component` to your `Actor`
 
 ![image](https://github.com/user-attachments/assets/303d0e90-0f9b-4bb6-b805-d37a1886fde8)
 ### Implement your logic by Listening to these events
