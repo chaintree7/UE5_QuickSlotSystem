@@ -4,9 +4,10 @@
 ![image](https://github.com/user-attachments/assets/c613fd79-3f7a-4713-9b1c-be7c85e67c30)
 
 # Introduction
-#### There are 4 containers named (Top, Right, Bottom, Left). You can add any `Actor` to the `Container`, such as `weapons`, `potions`, `skills`, It uses an `Event-Driven` architecture, so you don't need to extend any `parent class` or `interface`, you just need to add a `component` to your `Actor`
+#### There are 4 containers named (Top, Right, Bottom, Left). You can add any `Actor` to the `Container`, such as `weapons`, `potions`, `skills`, `Ammo`, It uses an `Event-Driven` architecture, so you don't need to extend any `parent class` or `interface`, you just need to add a `component` to your `Actor`
 
 ![image](https://github.com/user-attachments/assets/303d0e90-0f9b-4bb6-b805-d37a1886fde8)
+
 ### Implement your logic by Listening to these events
 | ArrayName| Map Value |
 | ----------- | ----------- |
@@ -15,3 +16,5 @@
 | `Event On Used` |  `When current Actor is selected (If it's a weapon, you can Attach it to Hand)` 
 | `Event On UnUsed` |  `When current Actor is deselected (If it's a weapon, you can Attach it to Body)` 
 | `Event On Triggered` | `When trying to use the current slot (For example, drink potion)`  
+
+#### This component is essentially only responsible for managing the state of the slots, and all game logic must be done by you, to ensure that it can be easily integrated into your existing project. In the Demo folder, I provide many examples, equip weapons and cool skills
