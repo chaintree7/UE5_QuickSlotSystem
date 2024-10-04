@@ -1,7 +1,7 @@
 ### Add a Component to Character
 ![image](https://github.com/user-attachments/assets/beebe54e-1383-4da8-8bd8-389cc8dcc35c)
 
-## The confusing part: `Index` refers to the index of the activated list And `Array Index` is the real index
+## The confusing part: `Index` is activated list index list And `Array Index` is the real index
 #### For Example：LeftSlots = [Shield, Arrow1, Arrow2, Arrow3], If current weapon is Bow, only Arrows activated
 #### Index1 = [Arrow1, Arrow2, Arrow3].get(1) = Arrow2
 #### RealIndex1 = [Shield, Arrow1, Arrow2, Arrow3].get(1) = Arrow1
@@ -25,12 +25,13 @@
 | `Get Actor By Key` |  `Get By Key` 
 | `Get Actor By Index` |  `Get By Index` 
 | `Get Actor By Array Index` |  `Get By Array Index` 
+| `Get Actors` |  `Get all actors` 
+| `Get Active Actors` |  `Activated actors` 
 | `Remove Actor` |  `Remove by object` 
 | `Remove Actor By Class` | `Remove by class` 
 | `Remove Actor By Key` | `Remove by key`  
 | `Remove Actor By Index` | `Remove by Index`  
 | `Remove Actor By Array Index` | `Remove by Array Index`  
-
 
 #### Example
 ![image](https://github.com/user-attachments/assets/488c7e34-1cea-40ee-866b-1e4d1a42ca2a)
