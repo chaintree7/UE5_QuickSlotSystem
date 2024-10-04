@@ -39,9 +39,10 @@
 | `Set Stack` |  `Set stack number` 
 | `Inc Stack` |  `Increase or decrease stack number` 
 | `Get Stack` |  `Get stack number` 
-| `GetSlotType` | `Get current SlotType` 
-| `GetTags` | `Get GameplayTags (Config)` 
-| `GetTexture ` | `Get Texture (Config)` 
+| `Get Slot Type` | `Get current SlotType` 
+| `IsActivated` | `Returns if the current Actor is activated` 
+| `Get Tags` | `Get GameplayTags (Config)` 
+| `Get Texture ` | `Get Texture (Config)` 
 | `Set Available` | `Change the current Actor available status` 
 | `SetAvailableAfterDelay` | `Put current Actor on cooldown Not available` 
 | `IsAvailable` | `Returns if the current Actor is available` 
@@ -59,6 +60,7 @@
 | `Event_OnTriggered ` | `When trying to use the current slot` 
 | `Event_OnSlotTypeChanged` | `When current Actor swaps with another Actor and changes SlotType` 
 | `Event_OnAvailableChanged` | `When available status changes` 
+| `Event_OnActivationChanged` | `When active status changes` 
 | `Event_OnStackChanged` | `When stack number changes` 
 | `Event_OnBeginAvailableDelayTimer` | `When cooldown starts` 
 | `Event_OnEndAvailableDelayTimer` | `When cooldown ends` 
