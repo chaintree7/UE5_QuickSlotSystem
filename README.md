@@ -8,6 +8,7 @@
 #### It is an event-driven architecture (no parent class, no interface). All communication is done through events. You only need to add a component. In simple terms, all items in the game (Weapon, Skills, Props etc.) are Actor basic types. You don't need to care about the specific type of Actor, so there is no need to use ugly things like Cast to XXX.
 
 # [CT_Cmpt_QuickSlot](https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/CT_Cmpt_QuickSlot.md)
+#### https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/CT_Cmpt_QuickSlot.md
 #### QuickSlot needs to be added to Character. Its main function is to manage slots. The component provides 5 slots, namely Top, Right, Bottom, Left, and Center. You can use these slots to implement functions similar to the Elden Ring. Center is reserved and you can use it at will according to your needs.
 #### This is made in imitation of the Elden Ring. It is very suitable for Gamepad
 ![image](https://github.com/user-attachments/assets/4a69250d-c070-4ccd-9582-e52836c56517)
@@ -15,6 +16,7 @@
 ![image](https://github.com/user-attachments/assets/2d22edfc-7bc5-4d3d-b3a1-8c9adefe4b1d)
 
 # [CT_Cmpt_SlotItem](https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/CT_Cmpt_SlotItem.md)
+#### https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/CT_Cmpt_SlotItem.md
 #### SlotItem needs to be added to an Actor such as Weapon, Props, Skills etc. After adding, you can listen to events and then interact with CT_Cmpt_QuickSlot
 ![image](https://github.com/user-attachments/assets/7606f323-c36f-451a-86c4-89db625b12f6)
 
