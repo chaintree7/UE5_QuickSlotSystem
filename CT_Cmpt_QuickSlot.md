@@ -1,7 +1,7 @@
 ### Add a Component to Character
 ![image](https://github.com/user-attachments/assets/beebe54e-1383-4da8-8bd8-389cc8dcc35c)
 
-## The confusing part: `Index` is activated list index list And `Array Index` is the real index
+## The confusing part: `Index` is activated list index And `Array Index` is the real index
 #### For Example：LeftSlots = [Shield, Arrow1, Arrow2, Arrow3], If current weapon is Bow, only Arrows activated
 #### Index1 = [Arrow1, Arrow2, Arrow3].get(1) = Arrow2
 #### RealIndex1 = [Shield, Arrow1, Arrow2, Arrow3].get(1) = Arrow1
