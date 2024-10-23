@@ -23,7 +23,7 @@
 ****
 # requires extra work
 ## GameplayTags
-#### Due to market limitations, When adding this product from Marketplace, GameplayTags will not be added to project. You need to download this file (https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/Config/Tags/CT_QuickSlot.ini) and add it to your project directory /Config/Tags/
+#### Due to market limitations, When adding this product from Marketplace, GameplayTags will not be added to project. You need to download this file (https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/Config/Tags/CT_QuickSlot.ini) and add it to your project directory `/Config/Tags/`
 
 ## Montage Replication
 #### Montages in the Demo is not replicated by default, You need to add another product of mine [NetworkMontageSystem (Free)](https://github.com/chaintree7/UE5_NetworkMontageSystem) , and open /Content/CT_Components/Demos/QuickSlotSystem/Items/BP_Item and find the following code
