@@ -1,4 +1,4 @@
-# Quick Slot System (Coming Soon)
+# Quick Slot System 
 
 ![image](https://github.com/user-attachments/assets/c613fd79-3f7a-4713-9b1c-be7c85e67c30)
 
