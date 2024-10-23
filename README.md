@@ -21,7 +21,7 @@
 ![image](https://github.com/user-attachments/assets/7606f323-c36f-451a-86c4-89db625b12f6)
 
 ****
-# requires extra work
+# requires additional work
 ## GameplayTags
 #### Due to market limitations, When adding this product from Marketplace, GameplayTags will not be added to project. You need to download this file (https://github.com/chaintree7/UE5_QuickSlotSystem/blob/main/Config/Tags/CT_QuickSlot.ini) and add it to your project directory `/Config/Tags/`
 
