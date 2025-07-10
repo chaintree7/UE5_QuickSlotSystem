@@ -29,7 +29,8 @@
 #### Montages in the Demo is not replicated by default, You need to add another product of mine [NetworkMontageSystem (Free)](https://github.com/chaintree7/UE5_NetworkMontageSystem) , and open /Content/CT_Components/Demos/QuickSlotSystem/Items/BP_Item and find the following code
 ![image](https://github.com/user-attachments/assets/e751760f-3101-4512-8485-c86efc85f043)
 #### change it to the following 
-![image](https://github.com/user-attachments/assets/69633a4b-77e9-474a-8627-53b69f6d1253)
+<img width="2787" height="1056" alt="image" src="https://github.com/user-attachments/assets/c68cd5ff-0649-4c6c-93ae-edabfff8159a" />
+
 
 
 
